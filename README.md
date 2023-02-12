@@ -16,3 +16,7 @@
 ## Reading in files with encoding problems
         Most files you'll encounter will probably be encoded with UTF-8. 
         This is what Python expects by default
+# Inconsistent Data Entry
+        Do some preliminary text pre-processing
+        We'll begin by taking a quick look at the first few rows of the data
+## Use fuzzy matching to correct inconsistent data entry
