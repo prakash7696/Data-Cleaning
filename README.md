@@ -14,4 +14,5 @@
 # Parsing Dates
 # Character Encodings
 ## Reading in files with encoding problems
-        Most files you'll encounter will probably be encoded with UTF-8. This is what Python expects by default
+        Most files you'll encounter will probably be encoded with UTF-8. 
+        This is what Python expects by default
