@@ -11,3 +11,4 @@
 ## Scaling vs. Normalization
         in scaling, you're changing the range of your data, while
         in normalization, you're changing the shape of the distribution of your data.
+# Parsing Dates
